@@ -14,16 +14,20 @@ body {
 
 #introduce {
     height: 600px;
+    background-color: blanchedalmond;
 }
 
 #skills {
     height: 200px;
+    background-color:rgb(136, 240, 240);
 }
 
 #experience {
     height: 500px;
+    background-color:rgb(136, 240, 240);
 }
 
 #contact {
     height: 300px;
+    background-color:snow;
 }
